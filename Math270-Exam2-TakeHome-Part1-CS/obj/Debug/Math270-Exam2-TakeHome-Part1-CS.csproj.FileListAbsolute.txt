@@ -1,0 +1,12 @@
+C:\Users\Ben\source\repos\Math270-Exam2-TakeHome-Part1\Math270-Exam2-TakeHome-Part1-CS\bin\Debug\Math270-Exam2-TakeHome-Part1-CS.exe.config
+C:\Users\Ben\source\repos\Math270-Exam2-TakeHome-Part1\Math270-Exam2-TakeHome-Part1-CS\bin\Debug\Math270-Exam2-TakeHome-Part1-CS.exe
+C:\Users\Ben\source\repos\Math270-Exam2-TakeHome-Part1\Math270-Exam2-TakeHome-Part1-CS\bin\Debug\Math270-Exam2-TakeHome-Part1-CS.pdb
+C:\Users\Ben\source\repos\Math270-Exam2-TakeHome-Part1\Math270-Exam2-TakeHome-Part1-CS\bin\Debug\MathNet.Numerics.dll
+C:\Users\Ben\source\repos\Math270-Exam2-TakeHome-Part1\Math270-Exam2-TakeHome-Part1-CS\bin\Debug\System.Interactive.dll
+C:\Users\Ben\source\repos\Math270-Exam2-TakeHome-Part1\Math270-Exam2-TakeHome-Part1-CS\bin\Debug\MathNet.Numerics.xml
+C:\Users\Ben\source\repos\Math270-Exam2-TakeHome-Part1\Math270-Exam2-TakeHome-Part1-CS\bin\Debug\System.Interactive.xml
+C:\Users\Ben\source\repos\Math270-Exam2-TakeHome-Part1\Math270-Exam2-TakeHome-Part1-CS\obj\Debug\Math270-Exam2-TakeHome-Part1-CS.csprojResolveAssemblyReference.cache
+C:\Users\Ben\source\repos\Math270-Exam2-TakeHome-Part1\Math270-Exam2-TakeHome-Part1-CS\obj\Debug\Math270-Exam2-TakeHome-Part1-CS.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\Math270-Exam2-TakeHome-Part1\Math270-Exam2-TakeHome-Part1-CS\obj\Debug\Math270-Exam2-TakeHome-Part1-CS.csproj.CopyComplete
+C:\Users\Ben\source\repos\Math270-Exam2-TakeHome-Part1\Math270-Exam2-TakeHome-Part1-CS\obj\Debug\Math270-Exam2-TakeHome-Part1-CS.exe
+C:\Users\Ben\source\repos\Math270-Exam2-TakeHome-Part1\Math270-Exam2-TakeHome-Part1-CS\obj\Debug\Math270-Exam2-TakeHome-Part1-CS.pdb

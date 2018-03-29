@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ben\source\repos\math270-exam2-takehome-part1\math270-exam2-takehome-part1\source.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\ben\source\repos\math270-exam2-takehome-part1\math270-exam2-takehome-part1\source.cpp(33): warning C4715: 'preproc': not all control paths return a value
+  Math270-Exam2-TakeHome-Part1.vcxproj -> C:\Users\Ben\source\repos\Math270-Exam2-TakeHome-Part1\Debug\Math270-Exam2-TakeHome-Part1.exe
